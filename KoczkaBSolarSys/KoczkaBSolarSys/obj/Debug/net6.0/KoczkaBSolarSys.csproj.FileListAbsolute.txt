@@ -1,0 +1,14 @@
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\bin\Debug\net6.0\KoczkaBSolarSys.exe
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\bin\Debug\net6.0\KoczkaBSolarSys.deps.json
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\bin\Debug\net6.0\KoczkaBSolarSys.runtimeconfig.json
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\bin\Debug\net6.0\KoczkaBSolarSys.dll
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\bin\Debug\net6.0\KoczkaBSolarSys.pdb
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.AssemblyInfoInputs.cache
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.AssemblyInfo.cs
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.csproj.CoreCompileInputs.cache
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.dll
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\refint\KoczkaBSolarSys.dll
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.pdb
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\KoczkaBSolarSys.genruntimeconfig.cache
+C:\Users\ny19koczkab\source\repos\KoczkaBSolarSys\KoczkaBSolarSys\obj\Debug\net6.0\ref\KoczkaBSolarSys.dll
